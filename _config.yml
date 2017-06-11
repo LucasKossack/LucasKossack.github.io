@@ -5,10 +5,10 @@ url: "http://example.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
+  title: Lucas Kossack
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Lucas Kossack's Blog and Projects" # used by search engines
 
   # Header and footer text
   header_text: >
@@ -21,23 +21,23 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: lucas@kossack.me
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: "rohanchandra/type-theme"
+  github: "lucaskossack"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin: https://www.linkedin.com/in/lucaskossack/ # Full URL
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "lucaskossack"
   wordpress:
   youtube:
 
